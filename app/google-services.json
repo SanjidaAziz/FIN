@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857332152917",
+    "project_id": "emergency-friend",
+    "storage_bucket": "emergency-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857332152917:android:4c4c9438f90d38d9e7b2dc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857332152917-7jlrdqt2dbrcbl7a5pfspcift3if0hr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBPmzAMZai9CGQ-thgZNXvxo_fPckQUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857332152917-7jlrdqt2dbrcbl7a5pfspcift3if0hr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
